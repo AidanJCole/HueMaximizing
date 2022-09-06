@@ -1,0 +1,8 @@
+.idea/*
+*.png
+Thumbs.db
+* ASCII text, with CRLF line terminators
+# Default ignored files
+/shelf/
+/workspace.xml
+
